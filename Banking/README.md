@@ -4,9 +4,9 @@
 This is a fictional core banking application inspired by common banking patterns.
 
 **Main tested areas**
-- Assets: Loans, & Overdraft
-- Treasury: FX, T-Bills, T-bonds, Mutual Funds.
-- Customer: CIF creation
+- Assets: Loans, Overdraft, Limit & Collateral. [Retail, Corporate & Syndicate]
+- Treasury: FX (Spot, Forward, Swap), Securities (T-Bills | T-bonds), Repo, Money Market, , Mutual Funds, Treasury Middle Office Reports. [Front Office, Back Office & Middle Office]
+- CRM: CIF creation. [Retail & Corporate]
 
 **Key artifacts in this folder**
 - `Test-Cases-Banking-FundTransfer.xlsx` – 50+ test cases (positive / negative / boundary)
