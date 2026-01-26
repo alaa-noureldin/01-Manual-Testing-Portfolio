@@ -1,14 +1,12 @@
 # Banking / FinTech – Generalized Test Suite
 
 **No real bank, accounts, transactions or internal processes** are used here.  
-This is a fictional online banking application inspired by common retail banking patterns.
+This is a fictional core banking application inspired by common banking patterns.
 
 **Main tested areas**
-- Authentication & session management
-- Account overview & balance validation
-- Fund transfers (internal / external)
-- Transaction history & filtering
-- Basic security checks (input validation, weak password detection)
+- Assets: Loans, & Overdraft
+- Treasury: FX, T-Bills, T-bonds, Mutual Funds.
+- Customer: CIF creation
 
 **Key artifacts in this folder**
 - `Test-Cases-Banking-FundTransfer.xlsx` – 50+ test cases (positive / negative / boundary)
