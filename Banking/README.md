@@ -1,7 +1,7 @@
 # Banking / FinTech – Generalized Test Suite
 
 **No real bank, accounts, transactions or internal processes** are used here.  
-This is a fictional core banking application inspired by common banking patterns.
+This is a fictional core banking application inspired by real banking applications.
 
 **Main tested areas**
 - Assets: Loans, Overdraft, Limit & Collateral. [Retail, Corporate & Syndicate]
