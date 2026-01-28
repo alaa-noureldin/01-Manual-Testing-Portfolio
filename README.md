@@ -1,4 +1,4 @@
-# 01-Manual-Testing-Portfolio | Ala'a Nour Eldin
+# 01-Manual-Testing-Portfolio | Alaa Nour Eldin
 Manual Testing |  Web &amp; Desktop Applications
 ------------------------------------------------
 
