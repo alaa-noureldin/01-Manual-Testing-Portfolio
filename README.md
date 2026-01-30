@@ -26,8 +26,6 @@ Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EduTec
 2. Go to a domain folder → read its own README.md  
 3. Look at `.xlsx`, `.md` files or screenshots
 
-All materials aim to show **structure**, **attention to detail**, **negative thinking** and **banking-level rigor** — transferable to any domain.
-
 Feel free to reach out:  
-📧 alaa132856@miue.edu.eg  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📧 alaa132856@miuegypt.edu.eg  
+🔗 [LinkedIn](https://www.linkedin.com/in/alaa-nour-eldin/)  
