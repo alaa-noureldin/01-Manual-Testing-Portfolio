@@ -5,25 +5,19 @@ Manual Testing |  Web &amp; Desktop Applications
 **Manual QA Engineer** with real-world experience in **banking / financial projects**  
 All artifacts here are **fictional**, based on **real banking core applications** — **no real client data or sensitive information** is included (NDA respected).
 
-Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EdTech** · **Mobile Apps** · **SaaS** and more.
+Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EduTech** · **Mobile Apps** · **SaaS** and more.
 
 ## 🛠 Skills & Focus Areas
-- Functional, Integration, Regression, Smoke, Sanity, Exploratory, Negative & Boundary Testing  
+- Functional, Integration, Regression, Smoke, Sanity, Exploratory, Negative & Equivalence Partitioning Testing  
 - Test Case Design (Equivalence Partitioning, BVA, Decision Table)  
 - Clear, structured **Bug Reporting** (Steps to Reproduce, Actual vs Expected, Severity/Priority, screenshots)    
 - Tools: Jira, Microsoft Excel
 
 ## 📂 Portfolio Structure (Domains & Artifacts)
 
-| Folder                  | Domain / Type                  | What's Inside                                      | Based on                          |
-|-------------------------|--------------------------------|----------------------------------------------------|-----------------------------------|
-| `/Banking`              | Generalized Online Banking     | Test cases, bug reports, security & transfer flows | Fictional banking patterns        |
-| `/E-commerce`           | Online Store / Retail          | Checkout, catalog, payments, negative scenarios    | Demo sites (saucedemo, demoblaze) |
-| `/HealthTech`           | Appointment / Booking System   | Patient flows, scheduling, notifications           | Fictional clinic app              |
-| `/Mobile`               | Mobile Apps (iOS/Android)      | UI/UX, gestures, interruptions, permissions       | Public mobile demo apps           |
-| `/API-Testing`          | REST API Manual Exploration    | Postman collections, test reports                  | ReqRes, FakeStore, JSONPlaceholder|
-| `/Exploratory`          | Exploratory Sessions            | Charters, notes, findings                          | the-internet.herokuapp.com etc.   |
-| `/Templates`            | Reusable QA Assets             | Test case template, bug report template, heuristics| —                                 |
+| Folder                          | Domain / Type                  | What's Inside                                      | Based on                          |
+|---------------------------------|--------------------------------|----------------------------------------------------|-----------------------------------|
+| `/Banking-FinTech`              | Banking Core                   | Test cases, bug reports                            | Real banking projects             |
 
 → Click any folder above to see detailed README + artifacts inside.
 
