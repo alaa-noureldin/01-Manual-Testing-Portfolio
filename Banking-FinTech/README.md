@@ -5,7 +5,7 @@ This is a fictional core banking application inspired by real banking applicatio
 
 **Main tested areas**
 - Assets: Loans, Overdraft, Limit & Collateral. [Retail, SME, Corporate & Syndicate]
-- Treasury: FX, Securities, Repo, Money Market, , Mutual Funds, Treasury Middle Office Reports. [Front Office, Back Office & Middle Office]
+- Treasury: FX, Securities(Bills & Bonds), Repo, Money Market. [Front Office, Back Office & Middle Office]
 - CRM: CIF creation. [Retail & Corporate]
 
 **Key artifacts in this folder**
