@@ -2,7 +2,7 @@
 Manual Testing |  Web &amp; Desktop Applications
 ------------------------------------------------
 
-**Manual QA Engineer** with real-world experience in **banking / financial projects**  
+**Manual QA Engineer** with real-world experience in **banking / financial projects**. 
 All artifacts here are **fictional**, based on **real banking core applications** — **no real client data or sensitive information** is included (NDA respected).
 
 Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EduTech** · **Mobile Apps** · **SaaS** and more.
