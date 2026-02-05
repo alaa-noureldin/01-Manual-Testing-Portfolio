@@ -8,7 +8,7 @@ All artifacts here are **fictional**, based on **real banking core applications*
 Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EduTech** · **Mobile Apps** · **SaaS** and more.
 
 ## 🛠 Skills & Focus Areas
-- Functional, Integration, Regression, Smoke, Sanity, Exploratory, Negative & Equivalence Partitioning Testing  
+- Functional, Integration, Exploratory, Negative & Equivalence Partitioning Testing  
 - Test Case Design (Equivalence Partitioning, BVA, Decision Table)  
 - Clear, structured **Bug Reporting** (Steps to Reproduce, Actual vs Expected, Severity/Priority, screenshots)    
 - Tools: Jira, Microsoft Excel
