@@ -17,7 +17,7 @@ Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EduTec
 
 | Folder                          | Domain / Type                  | What's Inside                                      | Based on                          |
 |---------------------------------|--------------------------------|----------------------------------------------------|-----------------------------------|
-| `/Banking-FinTech`              | Banking Core                   | Test cases, bug reports                            | Real banking projects             |
+| `/Banking-FinTech`              | Banking Core                   | Test cases, bug reports & test report.             | Real banking projects             |
 
 → Click any folder above to see detailed README + artifacts inside.
 
