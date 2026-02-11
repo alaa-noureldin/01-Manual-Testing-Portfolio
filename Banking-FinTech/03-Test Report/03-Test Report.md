@@ -56,4 +56,4 @@ This report provides a quick snapshot of testing progress, focusing on:
 **Note:** This is a sample/partial report format used for daily or weekly status sharing with testing and business teams to provide visibility on sprint progress and remaining work.
 
 ---
-Feel free to update the date, add progress percentages, blocked test cases, or retest status when preparing the actual report.
+
