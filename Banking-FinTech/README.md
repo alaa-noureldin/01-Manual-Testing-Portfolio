@@ -1,7 +1,7 @@
-# Banking / FinTech – Generalized Test Suite
+# Banking / FinTech
 
 **No real bank, accounts, transactions or internal processes** are used here.  
-This is a fictional core banking application inspired by real banking applications.
+This is a fictional core banking application inspired by real banking/FinTech projects/applications.
 
 **Main tested areas**
 - Assets: Loans, Overdraft, Limit & Collateral. [Retail, SME, Corporate & Syndicate]
@@ -9,12 +9,12 @@ This is a fictional core banking application inspired by real banking applicatio
 - CRM: CIF creation. [Retail & Corporate]
 
 **Key artifacts in this folder**
-- `Test-Cases-Banking-FundTransfer.xlsx` – 50+ test cases (positive / negative / boundary)
-- `Bug-Reports.md` – Example defects with repro steps, screenshots, severity
-- `Checklist-Security-Basics.md` – Quick security & usability checklist
-- `Risk-Based-Testing-Table.md` – Prioritized risks & rationale
+- `01-Testcase Design & Traceability Matrix` – 50+ test cases (positive / negative / boundary)
+- `02-Defect Report` Folder – Example defects with repro steps, screenshots, severity
+- `03-Test Report`Folder – Example test reports
 
-All data is dummy/fake. Screenshots use public demo tools or blurred generics.
+
+All data is dummy/fake. 
 
 
 
