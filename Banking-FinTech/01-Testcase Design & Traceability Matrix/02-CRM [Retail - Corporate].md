@@ -1,5 +1,31 @@
 **Scroll Right and Left** to see the whole testcase stucture.
 
+| Stream | Component | Req-ID | Testcase Name | Actor | Objective | Test data | Step | Test Steps | Expected Result |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Customer | Customer | MRD.CIF.001 ... MRD.CIF.064 | Customer_Create&EnrichNewCIF_UsingNationalID_ByMaker_A1 | Maker | Validate that maker can Create and Enrich CIF: 1- CCY: EGP 2- National ID | National ID | 1 | Login with a valid user name and password | User Logged in Successfully and Directed to the Home Page |
+| > | > | > | > | > | > | > | 2 | Navigate to Create CIF "CERC" Menu | CERC menu will be displayed |
+| > | > | > | > | > | > | > | 3 | Fill in Mandatory Fields, Document Type (National ID), Perform Dedup Check, MIO Check, Click GO | Values Entered Successfully, Dedup results displayed, CIF ID generated. |
+| > | > | > | > | > | > | > | 4 | In basic details: Perform I-Score Check, Fill Middle Name (Arabic) | Fields autopoulated: Salutation, Name, DOB, Gender, Address. English section displayed. |
+| > | > | > | > | > | > | > | 5 | Fill mandatory fields in English, Click Screening check (AML - SAS - CBE Blacklist) | AML - SAS - CBE Blacklist checked successfully. |
+| > | > | > | > | > | > | > | 6 | Navigate to Identification Document Summary List. Check National ID field. | National ID field is non-editable. |
+| > | > | > | > | > | > | > | 7 | Fill Phone Details, click Continue | ID Document Summary & Address auto-populated (Expiry matches National ID). |
+| > | > | > | > | > | > | > | 8 | Other Details: Fill Marital Status, Employment, Customer Type, click Continue | Auto-populated: Mother's Name, Residency, RM ID, Home Branch. Directed to Additional Details. |
+| > | > | > | > | > | > | > | 9 | Additional details: Fill Segment/Sub segment, click Save & Enrich | CIF ID saved. Enrich CIF "ERC" menu displayed. |
+| > | > | > | > | > | > | > | 10 | ABE Specific: POA, Purpose, Payroll Flag. Risk: Calculate Risk. FATCA: Citizenship/Green Card status. | Risk assessment field autopopulated after calculation. |
+| > | > | > | > | > | > | > | 11 | Fill Mandatory fields of Compliance Risk Matrix | Compliance Risk Matrix fields filled successfully. |
+| > | > | > | > | > | > | > | 12 | Click on next section | Additional details saved and validated successfully. |
+| > | > | > | > | > | > | > | 13 | Click on next section | Preference saved and validated successfully. |
+| > | > | > | > | > | > | > | 14 | Financial Details: Fill Source of Funds, Income Bracket. Click next. | Values entered successfully. |
+| > | > | > | > | > | > | > | 15 | Click on Submit | CIF ID is enriched (Numeric Value) and pending verification. |
+| Customer | Customer | MRD.CIF.001 ... MRD.CIF.060 | Customer_Verify_NewCIFCreation&Enrich_UsingNationalID_ByChecker_A2 | Checker | Validate that Checker can Verify CIF Creation | N/A | 16 | Login with a valid user name and password | User Logged in Successfully and Directed to the Home Page |
+| > | > | > | > | > | > | > | 17 | Navigate to RCCAT menu | RCCAT will be displayed successfully. |
+| > | > | > | > | > | > | > | 18 | Fill Mandatory fields: CIF Type, Operation, CIF ID, Entity type | Values entered successfully. |
+| > | > | > | > | > | > | > | 19 | Click on Search | CIF ID LIST will be displayed. |
+| > | > | > | > | > | > | > | 20 | Click on Approve | CIF details and Approval form displayed successfully. |
+| > | > | > | > | > | > | > | 21 | Enter Remarks, Click Audit Trail | Audit details shown: Creation/Enrichment dates, user details, changed attributes. |
+| > | > | > | > | > | > | > | 22 | Click Submit | CIF is Verified Successfully. |
+
+
 | Stream   | Component      | Req-ID                                                                 | Testcase Name                                                                 | Actor   | Objective                                                                                          | Test data                                                                 | Step | Test Steps                                                                                          | Expected Result                                                                                     |
 |----------|----------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Customer | Customer       | MRD.CIF.001 MRD.CIF.002 MRD.CIF.008 MRD.CIF.009 MRD.CIF.013 MRD.CIF.016 MRD.CIF.023 MRD.CIF.025 MRD.CIF.029 MRD.CIF.030 MRD.CIF.031 MRD.CIF.034 MRD.CIF.041 MRD.CIF.139 MRD.CIF.084 MRD.CIF.055 MRD.CIF.039 MRD.CIF.056 MRD.CIF.060 MRD.CIF.064 | Customer_Create&EnrichNewCIF_UsingNationalID_ByMaker_A1                       | Maker   | Validate that maker can Create and Enrich CIF with the following criteria: 1- CCY: EGP 2- National ID | National ID                                                               |      | Login with a valid user name and password                                                           | User Logged in Successfully and Directed to the Home Page                                           |
