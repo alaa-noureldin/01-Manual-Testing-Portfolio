@@ -24,7 +24,7 @@ Open to projects in: **FinTech** · **E-commerce** · **HealthTech** · **EduTec
 ## Quick Start – How to Browse
 1. Start with the **root README** (this file)  
 2. Go to a domain folder → read its own README.md  
-3. Look at `.xlsx`, `.md` files or screenshots
+3. Look at `.md` files or screenshots
 
 Feel free to reach out:  
 📧 alaa132856@miuegypt.edu.eg  
