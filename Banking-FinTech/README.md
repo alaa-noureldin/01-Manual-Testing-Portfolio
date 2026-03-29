@@ -9,9 +9,9 @@ This is a fictional core banking application inspired by real banking/FinTech pr
 - CRM: CIF creation. [Retail & Corporate]
 
 **Key artifacts in this folder**
-- `01-Testcase Design & Traceability Matrix` – 50+ test cases (positive / negative / boundary)
+- `01-Testcase Design & Traceability Matrix` Folder – 50+ test cases (positive / negative / boundary)
 - `02-Defect Report` Folder – Example defects with repro steps, screenshots, severity
-- `03-Test Report`Folder – Example test reports
+- `03-Test Report` Folder – Example test reports
 
 
 All data is dummy/fake. 
